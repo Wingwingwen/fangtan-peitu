@@ -1,0 +1,4 @@
+interface:
+  display_name: "字幕拼图与金句标题"
+  short_description: "提炼传播型金句标题，生成原生或脚本字幕3:4拼图"
+  default_prompt: "使用 $native-subtitle-quote-image 处理这个视频：提炼可传播的金句标题，或按来源与字幕类型制作原生/脚本字幕3:4拼图并质检。"
